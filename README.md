@@ -1,4 +1,4 @@
-# bhojansaathi
+# electron_boilerplate
 
 An Electron application with React and TypeScript
 
